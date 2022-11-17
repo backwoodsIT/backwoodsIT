@@ -14,7 +14,7 @@ I am a coding enthusiast who loves the challenge and problem solving it provides
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
           
-# - - -         
+#
 
 ### Projects
 
