@@ -19,4 +19,9 @@ I am a coding enthusiast who loves the challenge and problem solving it provides
 
 ### Ongoing Projects
 
- <iframe src="studioenlair.com" height="200" width="300" title="Iframe Example"></iframe>
+<html lang="en">
+<head>
+    <title>Specify iFrame Dimensions in HTML</title>
+</head>
+<iframe src="demo_iframe.htm" height="200" width="300" title="Iframe Example"></iframe>
+</html>
