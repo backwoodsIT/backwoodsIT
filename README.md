@@ -21,7 +21,7 @@ I am a coding enthusiast who loves the challenge and problem solving it provides
 
 <ul>
     <li><a href="https://studioenlair.com/home/tabs/about">Studio En L'air</a></li>
-    <li><a href="https://processor-app.firebaseapp.com/tabs/tab1">Wild Game Record Keeping</a></li>
+    <li><a href="https://processor-app.firebaseapp.com/tabs/tab1">Wild Game Record Keeping (user: processor2@user.com Password: 123456)</a></li>
 </ul>
 
 
